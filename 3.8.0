@@ -1,0 +1,5 @@
+Requirement already satisfied: flake8 in c:\users\ricardo.alvarez\appdata\local\programs\python\python37-32\lib\site-packages (3.7.8)
+Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in c:\users\ricardo.alvarez\appdata\local\programs\python\python37-32\lib\site-packages (from flake8) (0.6.1)
+Requirement already satisfied: entrypoints<0.4.0,>=0.3.0 in c:\users\ricardo.alvarez\appdata\local\programs\python\python37-32\lib\site-packages (from flake8) (0.3)
+Requirement already satisfied: pycodestyle<2.6.0,>=2.5.0 in c:\users\ricardo.alvarez\appdata\local\programs\python\python37-32\lib\site-packages (from flake8) (2.5.0)
+Requirement already satisfied: pyflakes<2.2.0,>=2.1.0 in c:\users\ricardo.alvarez\appdata\local\programs\python\python37-32\lib\site-packages (from flake8) (2.1.1)
